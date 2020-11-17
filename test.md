@@ -170,12 +170,41 @@ System.our.printf("%d〇",6);
 - 解答欄
 
 ___
-**問3(2)下記のソースコードを実行した際の出力結果を記載せよ**
+**問3(2)下記のソースコードで配列の要素を出力させるために１行目にパッケージをインポートせよ**
+```java
+1行目------------------
+int[] arr=new int{1,2,3}
+System.out.println(Arrays.toString(arr));
+```
+- 解答欄
+
+___
+**問4(2)下記のソースコードを実行した際の出力結果を記載せよ**
 ```java
 import java.util.*;
 int[] arr=new int[4]
 System.out.println(Arrays.toString(arr));
 ```
 - 解答欄
+
+___
+**問5(2)下記のソースコードを実行した際の出力結果を記載せよ**
+```java
+import java.util.*;
+int[][] arr=new int[3][3]
+for(int i=0;i<2;i++){
+  for(int j=0;j<arr[i].length;j++){
+    arr[i][j]=j+100;
+   }
+}
+for(int i=0;i<arr.length;i++){
+ for(int J=0;j<arr[i].length;j++{
+    System.out.printf("%2d"arr[i][j]);
+  }
+  System.out.println();
+}
+```
+- 解答欄
+
 
 ___
