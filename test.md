@@ -150,3 +150,32 @@ ___
 
 
 ## Java
+
+**問1(2)下記のソースコードを実行した際、出力内容にxの値が入るように〇の中を埋めよ**
+```java
+int x=10;
+System.out.println("xの値は"〇"です。");
+```
+
+- 解答欄
+
+
+___
+**問2(2)下記のソースコードを実行した際、一行ごとに改行されるように〇の中を埋めよ**
+```java
+System.out.printf("%d〇",2);
+System.our.printf("%d〇",6);
+```
+
+- 解答欄
+
+___
+**問3(2)下記のソースコードを実行した際の出力結果を記載せよ**
+```java
+import java.util.*;
+int[] arr=new int[4]
+System.out.println(Arrays.toString(arr));
+```
+- 解答欄
+
+___
