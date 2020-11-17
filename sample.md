@@ -33,4 +33,7 @@ ___
 
 こんにちは、今日も**元気に**頑張りましょう。
 
-![画像](https://joytas.net.
+![画像](https://joytas.n)
+
+![画像](https://github.com/kurea66/20201117/issues/1#issue-744312842)
+
